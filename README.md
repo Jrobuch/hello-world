@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-Data is cool! I love data analytics and Data Science. Anything and everything data!
+Data is cool! I love Data Analytics and Data Science. Anything and everything data!
